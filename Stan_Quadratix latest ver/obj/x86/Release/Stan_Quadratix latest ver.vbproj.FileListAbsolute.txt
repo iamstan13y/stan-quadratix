@@ -1,0 +1,18 @@
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Release\Stan_Quadratix latest ver.exe
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Release\Stan_Quadratix latest ver.pdb
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Release\Stan_Quadratix latest ver.xml
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Release\Stan_Quadratix latest ver.vbproj.GenerateResource.Cache
+D:\Stan_Quadratix.exe.manifest
+D:\Stan_Quadratix.application
+D:\Stan_Quadratix.exe
+D:\Stan_Quadratix.pdb
+D:\Stan_Quadratix.xml
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Release\Stan_Quadratix.Stan_Quadratix.resources
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Release\Stan_Quadratix.About.resources
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Release\Stan_Quadratix.Resources.resources
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Release\Stan_Quadratix.TrustInfo.xml
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Release\Stan_Quadratix.exe.manifest
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Release\Stan_Quadratix.application
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Release\Stan_Quadratix.exe
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Release\Stan_Quadratix.xml
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Release\Stan_Quadratix.pdb

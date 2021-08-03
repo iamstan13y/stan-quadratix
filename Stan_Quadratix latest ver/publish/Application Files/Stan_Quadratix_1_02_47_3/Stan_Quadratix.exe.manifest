@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Stan_Quadratix.exe" version="1.02.47.3" publicKeyToken="3c6daedc9b1b4331" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="stan_Quadratix.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Stan_Quadratix" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Stan_Quadratix.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Stan_Quadratix.exe" size="101376">
+      <assemblyIdentity name="Stan_Quadratix" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ExljAStKOdQiAJNyqDNJO3kxj7w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="stan_Quadratix.ico" size="12862">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>EjdC62FTz9ERwxQ3h63kQDIegmE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=STANLEY-47\Stanley Brikkz" issuerKeyHash="37dd265d856cd42334b6b7b1e5073c2e3ede3de9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>2qchgI2jucF2qIUBG9FrSSX2y4g=</DigestValue></Reference></SignedInfo><SignatureValue>asxOBXlutgco0Z3bkZQPwEoENRaCJ6s6vDClUTLH5eFLWhTrB9zq9uU5aC9NAOL5Q1PJPZGpgUMtuhji3FWgJmnUajo+wWsDqVUjZB6TC93soeTpKg1TIWiV15x22pKE0yRSd22AC9kY8J7mdf8gXPh74ZAXvvb/IzVmfQfSe5o=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>p4e4eRwxw3QbnV9T63uz4N83Omi6FkmOu0da8UdIb6x9GQ7HuYVCpQtOUsJ4G0U5WwgqLPgG/kQF5u04UctMKom0c1h0y6y/rC3ut4M7L0HCbYWwLKeOMoHRH8OPjOmATwha7DFz7IBaYiA0Z+XEoEgjCf4JurHXLHs3mGcq04U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="88cbf625496bd11b0185a876c1b9a38d8021a7da" Description="" Url=""><as:assemblyIdentity name="Stan_Quadratix.exe" version="1.02.47.3" publicKeyToken="3c6daedc9b1b4331" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=STANLEY-47\Stanley Brikkz</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>OHuuz8LOqS0e2adx6LN+bRWJeKA=</DigestValue></Reference></SignedInfo><SignatureValue>RbZJaJ+7RhvvIGOJjQKAb2RNUVhnav+5uZo20k20nO2Gkgoa4h9vjHL5Y1/vyXpYGtm/xOsmSIrwfFnXHBjfZnrABdfq1L3sCWM3F0OBcrVbbvNQHFBdL6jTsv5Pc59vi9BNBV7vtciyovyuiBwf3okDffBovsgzVhaPPuIoj8A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>p4e4eRwxw3QbnV9T63uz4N83Omi6FkmOu0da8UdIb6x9GQ7HuYVCpQtOUsJ4G0U5WwgqLPgG/kQF5u04UctMKom0c1h0y6y/rC3ut4M7L0HCbYWwLKeOMoHRH8OPjOmATwha7DFz7IBaYiA0Z+XEoEgjCf4JurHXLHs3mGcq04U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQVd7v6EDLqapBdGPPqC4gwjANBgkqhkiG9w0BAQUFADA9MTswOQYDVQQDHjIAUwBUAEEATgBMAEUAWQAtADQANwBcAFMAdABhAG4AbABlAHkAIABCAHIAaQBrAGsAejAeFw0xNzEyMTcyMTMwMzBaFw0xODEyMTgwMzMwMzBaMD0xOzA5BgNVBAMeMgBTAFQAQQBOAEwARQBZAC0ANAA3AFwAUwB0AGEAbgBsAGUAeQAgAEIAcgBpAGsAawB6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnh7h5HDHDdBudX1Pre7Pg3zc6aLoWSY67R1rxR0hvrH0ZDse5hUKlC05SwngbRTlbCCos+Ab+RAXm7ThRy0wqibRzWHTLrL+sLe63gzsvQcJthbAsp44ygdEfw4+M6YBPCFrsMXPsgFpiIDRn5cSgSCMJ/gm6sdcsezeYZyrThQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAA7vYSR581it3VvQgXDVYWM0k75eZ3bTXlYcJB0zqN+W7Tmd0zFBpx4OkE7XFzxlM606TCsdDmY+KQMp3WD25mys/KiDKZzWZUBr/m27+tHrM/ofYZGHxQTzPJzkQX/8URDc2rWk8MyGnFtLGwrN2lB3dNXuUDpIoLxTu6Ew15NA</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

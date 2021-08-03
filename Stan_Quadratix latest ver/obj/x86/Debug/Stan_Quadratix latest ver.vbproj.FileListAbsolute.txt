@@ -1,0 +1,45 @@
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix latest ver.vbproj.GenerateResource.Cache
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.exe.manifest
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.application
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.exe
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.pdb
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.xml
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.Stan_Quadratix.resources
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.About.resources
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.Resources.resources
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.TrustInfo.xml
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.exe.manifest
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.application
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.exe
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.xml
+C:\Users\Stanley Brikkz\documents\visual studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.pdb
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.exe
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.xml
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.pdb
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.Stan_Quadratix.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.About.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.Resources.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix latest ver.vbproj.GenerateResource.Cache
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.exe.manifest
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.application
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.exe
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.pdb
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.xml
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.TrustInfo.xml
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.exe.manifest
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.application
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.exe.manifest
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.application
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\bin\Debug\Stan_Quadratix.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.Stan_Quadratix.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.About.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix latest ver.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.TrustInfo.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.exe.manifest
+C:\Users\user\Documents\Visual Studio 2010\Projects\Stan_Quadratix latest ver\Stan_Quadratix latest ver\obj\x86\Debug\Stan_Quadratix.application
